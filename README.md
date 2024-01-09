@@ -47,7 +47,3 @@ The baseline results obtained in the paper were run with commands located in `sr
 
 [^1]: Yash Puranik and Nikolaos V Sahinidis. Bounds tightening based on optimality conditions for370
 nonconvex box-constrained optimization. _Journal of Global Optimization_
-
-### Train Artificial Neural Networks
-
-Our simple neural networks that emulate synthetic functions are trained with `src/train_nn_one_layer.py`. The commands to train the neural networks that were used in the paper are provided at the top of the same python script.
