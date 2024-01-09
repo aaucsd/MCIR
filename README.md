@@ -1,5 +1,5 @@
-# Monte Carlo Tree Search with Interval Bounds and Regional Gradient (MCIR)
-
+# Monte Carlo Tree Search with Interval Bounds and Regional Estimation (MCIR)
+Codes for the paper _Sample-and-Bound for Non-Convex Optimization_, in AAAI 2024.
 ## Required packages 
 
 Install required packages as from `requirement.txt` via `conda` and `pip`
